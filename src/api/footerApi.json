@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "FaMapMarkerAlt",
+    "title": "Find us",
+    "details": "Nashik, Maharastra"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "(555) 123-4567"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "info@yourwebsite.com"
+  }
+]

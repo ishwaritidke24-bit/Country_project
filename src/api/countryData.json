@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 2,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 214300000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest."
+  },
+  {
+    "id": 3,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39580000,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26700000,
+    "interestingFact": "Australia is home to the Great Barrier Reef."
+  },
+  {
+    "id": 5,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1428000000,
+    "interestingFact": "India is the birthplace of chess."
+  },
+  {
+    "id": 6,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 111000000,
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 7,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 68200000,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60900000,
+    "interestingFact": "South Africa has three capital cities: Pretoria, Bloemfontein, and Cape Town."
+  },
+  {
+    "id": 9,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 129000000,
+    "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+  }
+]
