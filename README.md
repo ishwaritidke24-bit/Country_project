@@ -1,16 +1,40 @@
-# React + Vite
+#Country Explorer – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive country information explorer built with React + Vite, powered by the REST Countries API. Users can search for any country and instantly view details like flags, capital, population, region, languages, currencies, and more.
 
-Currently, two official plugins are available:
+Live Demo → https://countryprojbyish.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Features
 
-## React Compiler
+- Search with instant filtering
+- REST Countries API integration
+- Country detail page with flag + full info
+- Error handling for invalid country names
+- Super-fast performance — powered by Vite
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##Tech Stack
 
-## Expanding the ESLint configuration
+- React (Hooks + Components)
+- Vite (HMR + Fast Dev Environment)
+- CSS3 (Flexbox, Grid, Responsive Design)
+- API: REST Countries API
+- React Router 
+- Deployment: Netlify
+- Version Control: Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Folder Structure
+country-explorer/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│   ├── index.css
+│── public/
+│── package.json
+│── vite.config.js
+└── README.md
+
+Developer: Ishwari Tidke
+GitHub: https://github.com/ishwaritidke24-bit
+Live Demo: https://countryprojbyish.netlify.app/
