@@ -2,8 +2,6 @@
 
 A responsive country information explorer built with React + Vite, powered by the REST Countries API. Users can search for any country and instantly view details like flags, capital, population, region, languages, currencies, and more.
 
-Live Demo → https://countryprojbyish.netlify.app/
-
 ##Features
 
 - Search with instant filtering
@@ -24,4 +22,3 @@ Live Demo → https://countryprojbyish.netlify.app/
 
 Developer: Ishwari Tidke
 GitHub: https://github.com/ishwaritidke24-bit
-Live Demo: https://countryprojbyish.netlify.app/
