@@ -22,19 +22,6 @@ Live Demo → https://countryprojbyish.netlify.app/
 - Deployment: Netlify
 - Version Control: Git & GitHub
 
-Folder Structure
-country-explorer/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── index.css
-│── public/
-│── package.json
-│── vite.config.js
-└── README.md
-
 Developer: Ishwari Tidke
 GitHub: https://github.com/ishwaritidke24-bit
 Live Demo: https://countryprojbyish.netlify.app/
